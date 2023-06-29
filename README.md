@@ -1,2 +1,2 @@
 # Pizza-Runner-SQL-CaseStudy
-This case study is a part of Danny Ma SQL Challenge.
+In this case study we provide meaningful insights to danny ma by analysing, cleaning, transforming and querying the data.
